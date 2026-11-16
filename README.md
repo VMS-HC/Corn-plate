@@ -5,7 +5,7 @@
 <h1>Hotplate</h1>
 <p>Just a simple..ish hot plate that can get up to 250C!</p>
 
-<h4> <a href=https://github.com/VMS-HC/Corn-plate>View Demo</a> <span> · </span> <a href="https://github.com/Bobert3D/Corn Hotplate/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Bobert3D/Corn Hotplate/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Bobert3D/Corn Hotplate/issues"> Request Feature </a> </h4>
+<h4> <a href=https://github.com/VMS-HC/Corn-plate>View Demo</a> <span> · </span> <a href="https://github.com/Bobert3D/Corn-plate/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Bobert3D/Corn-Hotplate/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Bobert3D/Corn-Hotplate/issues"> Request Feature </a> </h4>
 
 
 </div>
