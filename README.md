@@ -110,11 +110,11 @@ kicad
 
 ## :warning: License
 
-Distributed under the no License. See LICENSE.txt for more information.
+Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## :handshake: author
 
-Bobert3D - -
+Bobert3D 
 
 Project Link: [https://github.com/VMS-HC/Corn-Bit](https://github.com/VMS-HC/Corn-Bit)
 
